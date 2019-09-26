@@ -10,3 +10,7 @@ html
 {
 	background: blue
 }
+input
+{
+	border-radius: 30px;
+}
